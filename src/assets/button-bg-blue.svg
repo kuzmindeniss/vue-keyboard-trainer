@@ -1,0 +1,29 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 200 40" style="enable-background:new 0 0 200 40" xml:space="preserve">
+  <style>
+    .st1{fill:url(#SVGID_00000115506911591608166360000004889617603251249031_)}
+  </style>
+  <g id="right">
+    <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="41.9362" y1="20.003" x2="200.002" y2="20.003">
+      <stop offset="0" stop-color="#3464af">
+        <animate attributeName="stop-color" dur="4s" repeatCount="indefinite" values="#3464af; #689fd6; #3464af" />
+        <animate begin="click" attributeName="stop-color" dur="4s" repeatCount="indefinite" values="#161719; #161719; #161719" />
+	    </stop>
+      <stop offset="1" stop-color="#689fd6">
+        <animate attributeName="stop-color" dur="4s" repeatCount="indefinite" values="#689fd6; #3464af; #689fd6" />
+        <!-- <animate attributeName="stop-color" dur="4s" repeatCount="indefinite" values="#3464af; #689fd6; #3464af" /> -->
+      </stop>
+    </linearGradient>
+    <path style="fill:url(#SVGID_1_)" d="M41.94 0h158.07v40H41.94z"/>
+  </g>
+  <g id="left">
+    <linearGradient id="SVGID_00000136387932497054874140000004303299575845363334_" gradientUnits="userSpaceOnUse" x1="0" y1="19.9968" x2="135.383" y2="19.9968">
+      <stop offset="0" stop-color="#2d57a7">
+		    <animate attributeName="stop-color" dur="5s" repeatCount="indefinite" values="#689fd6; #3464af; #689fd6" />
+	    </stop>
+      <stop offset=".45" stop-color="#3a71b8">
+		    <animate attributeName="stop-color" dur="5s" repeatCount="indefinite" values="#3464af; #689fd6; #3464af" />
+	    </stop>
+    </linearGradient>
+    <path style="fill:url(#SVGID_00000136387932497054874140000004303299575845363334_)" d="M0 0v40h42.98c2.78-8.24 52.79-39.4 92.4-40H0z"/>
+  </g>
+</svg>
