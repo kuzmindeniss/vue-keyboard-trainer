@@ -1,25 +1,20 @@
 <script setup lang="ts">
-import { gsap } from 'gsap';
 
 defineProps<{
 	text: string;
 	hreff: string;
 }>();
 
-function hover(payload: MouseEvent) {
-	// const el = payload.target;
-	// gsap.to(el, {color: "red", duration: 2});
-}
 </script>
 
 <template>
-	<a :href="hreff" class="text-wrapper__button" @mousemove="hover">{{ text }}</a>
+	<a :href="hreff" class="text-wrapper__button">{{ text }}</a>
 </template>
 
 <style lang="scss" scoped>
 .text-wrapper__button {
 	display: inline-block;
-	padding: 12px 60px;
+	padding: 10px 60px;
 	position: relative;
 	background: url('@/assets/button-bg-blue.svg') no-repeat;
 	background-size: cover;
@@ -27,6 +22,7 @@ function hover(payload: MouseEvent) {
 	color: #fff;
 	border-radius: 32px;
 	font-size: .9rem;
+	box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.1);
 
 	&:hover {
 		opacity: .82;
