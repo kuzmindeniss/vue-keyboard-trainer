@@ -122,7 +122,15 @@
                           attributeType="XML"
                           type="scale"
                           dur="5"
+                          additive="sum"
                           values="1; 1.04; 1"
+                          repeatCount="indefinite"/>
+    <animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="translate"
+                          dur="5"
+                          values="0, 0; -15, 0; 0, 0"
+                          additive="sum"
                           repeatCount="indefinite"/>
   </g>
   <g id="Keyboard">
@@ -674,7 +682,6 @@
 <style scoped>
   .st13{fill:#fff}
   #Keyboard {
-    transform: translate(15px, 0);
     transition: all .5s;
     opacity: 1;
   }
