@@ -22,6 +22,7 @@ defineProps<{
 	color: #fff;
 	border-radius: 32px;
 	font-size: .9rem;
+	font-weight: 600;
 	box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.1);
 
 	&:hover {
