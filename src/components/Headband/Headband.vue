@@ -5,16 +5,15 @@ import CompSsvg from "./CompSsvg.vue";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 
-const firstSlide = ref(null);
-const secondSlide = ref(null);
-const innerWrapper = ref(null);
+const firstSlide = ref<Element | null>(null);
+const secondSlide = ref<Element | null>(null);
+const innerWrapper = ref<Element | null>(null);
 
 
 gsap.registerPlugin(ScrollTrigger);
 onMounted(() => {
 	const tween1 = gsap.to(firstSlide.value, {
 		opacity: 0,
-		// display: "none",
 		scale: 0,
 		duration: 1,
 		scrollTrigger: {
