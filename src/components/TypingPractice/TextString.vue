@@ -44,17 +44,45 @@ const styleObject = computed(() => {
 </template>
 
 <style lang="scss">
+@keyframes pressopacity {
+    from {
+        opacity: .8
+    }
+    50% {
+        opacity: .3
+    }
+    to {
+        opacity: .8
+    }
+}
+
 .string {
     position: absolute;
     left: 50%;
     white-space: nowrap;
     font-size: 2rem;
     transition: all .3s;
-    border-left: 2px solid #ccc;
+    // border-left: 3px solid rgba(0, 0, 0, 1);
+    // animation: pressopacity 2s infinite ease-in-out;
+    // animation-fill-mode: forwards;
+    // animation-direction: alternate;
+
+    &:before {
+        content: "";
+        display: inline-block;
+        position: absolute;
+        left: -3px;
+        top: 0;
+        background-color: #000;
+        opacity: .8;
+        height: 100%;
+        width: 3px;
+        animation: pressopacity 1s infinite ease-in-out;
+    }
 }
 
 .inner-string {
-
+    transition: all .1s;
 }
 
 .letter-typed {
