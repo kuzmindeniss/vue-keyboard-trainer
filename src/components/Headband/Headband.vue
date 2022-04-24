@@ -9,6 +9,7 @@ const firstSlide = ref(null);
 const secondSlide = ref(null);
 const innerWrapper = ref(null);
 
+
 gsap.registerPlugin(ScrollTrigger);
 onMounted(() => {
 	const tween1 = gsap.to(firstSlide.value, {
