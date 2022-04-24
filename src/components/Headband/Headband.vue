@@ -85,7 +85,6 @@ onMounted(() => {
 	border-radius: 24px;
 	box-shadow: 0px 4px 8px 0px rgba(34, 60, 80, 0.2);
 	background: url("@/assets/Live-Background.svg");
-	min-height: 400px;
 
 	&::-webkit-scrollbar {
 		width: 6px;

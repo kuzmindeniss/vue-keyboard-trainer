@@ -1,10 +1,12 @@
 <script setup lang="ts">
 import Headband from "./components/Headband/Headband.vue";
+import TypingPractice from "./components/TypingPractice/TypingPractice.vue";
 </script>
 
 <template>
 <div class="root-wrapper">
-    <Headband />
+    <!-- <Headband /> -->
+    <TypingPractice />
 </div>
 </template>
 
