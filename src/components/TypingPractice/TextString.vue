@@ -62,10 +62,6 @@ const styleObject = computed(() => {
     white-space: nowrap;
     font-size: 2rem;
     transition: all .3s;
-    // border-left: 3px solid rgba(0, 0, 0, 1);
-    // animation: pressopacity 2s infinite ease-in-out;
-    // animation-fill-mode: forwards;
-    // animation-direction: alternate;
 
     &:before {
         content: "";

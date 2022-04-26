@@ -49,7 +49,7 @@ onMounted(() => {
 		<div class="first-slide" ref="firstSlide">
 			<div class="text-wrapper">
 				<h2 >Practice Touch Typing!</h2>
-				<ButtonSvg text="Get Started" hreff="#"/>
+				<ButtonSvg text="Get Started" hreff="#/practice"/>
 			</div>
 			<div class="comp-svg">
 				<CompSsvg/>
@@ -59,7 +59,7 @@ onMounted(() => {
 			<div class="second-slide__img"></div>
 			<div>
 				<h2> It can improve your typing speed and accuracy dramatically</h2>
-				<ButtonSvg text="Start!" hreff="#"/>
+				<ButtonSvg text="Start!" hreff="#/practice"/>
 			</div>
 			
 		</div>

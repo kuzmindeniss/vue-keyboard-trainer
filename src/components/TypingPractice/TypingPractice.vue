@@ -1,5 +1,6 @@
 <script setup lang="ts">import { onMounted, onUnmounted, ref } from 'vue';
 import TextString from './TextString.vue';
+import Keyboard from './Keyboard.vue';
 
     let text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     const currentPosition = ref<number>(0);
@@ -24,6 +25,7 @@ import TextString from './TextString.vue';
     <div class="inner-wrapper">
         <h1>Typing</h1>
         <TextString :text="text" :current-position="currentPosition" :fail-indexes="failIndexes" />
+        <Keyboard />
     </div>
 </div>
 </template>

@@ -1,0 +1,1175 @@
+{
+    "backquote": {
+        "path" : {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 10,
+            "y": 15,
+            "value": "~"
+        },
+        "text1": {
+            "x": 10,
+            "y": 30,
+            "value": "`"
+        }
+    },
+    "digit1": {
+        "x": 42,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 10,
+            "y": 15,
+            "value": "!"
+        },
+        "text1": {
+            "x": 10,
+            "y": 30,
+            "value": "1"
+        }
+    },
+    "digit2": {
+        "x": 84,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 10,
+            "y": 15,
+            "value": "@"
+        },
+        "text1": {
+            "x": 10,
+            "y": 30,
+            "value": "2"
+        }
+    },
+    "digit3": {
+        "x": 126,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 10,
+            "y": 15,
+            "value": "#"
+        },
+        "text1": {
+            "x": 10,
+            "y": 30,
+            "value": "3"
+        }
+    },
+    "digit4": {
+        "x": 168,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 10,
+            "y": 15,
+            "value": "$"
+        },
+        "text1": {
+            "x": 10,
+            "y": 30,
+            "value": "4"
+        }
+    },
+    "digit5": {
+        "x": 210,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 10,
+            "y": 15,
+            "value": "%"
+        },
+        "text1": {
+            "x": 10,
+            "y": 30,
+            "value": "5"
+        }
+    },
+    "digit6": {
+        "x": 252,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 10,
+            "y": 15,
+            "value": "^"
+        },
+        "text1": {
+            "x": 10,
+            "y": 30,
+            "value": "6"
+        }
+    },
+    "digit7": {
+        "x": 294,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 10,
+            "y": 15,
+            "value": "&amp;"
+        },
+        "text1": {
+            "x": 10,
+            "y": 30,
+            "value": "7"
+        }
+    },
+    "digit8": {
+        "x": 336,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 10,
+            "y": 15,
+            "value": "*"
+        },
+        "text1": {
+            "x": 10,
+            "y": 30,
+            "value": "8"
+        }
+    },
+    "digit9": {
+        "x": 378,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 10,
+            "y": 15,
+            "value": "("
+        },
+        "text1": {
+            "x": 10,
+            "y": 30,
+            "value": "9"
+        }
+    },
+    "digit0": {
+        "x": 420,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 10,
+            "y": 15,
+            "value": ")"
+        },
+        "text1": {
+            "x": 10,
+            "y": 30,
+            "value": "0"
+        }
+    },
+    "minus": {
+        "x": 462,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 10,
+            "y": 15,
+            "value": "_"
+        },
+        "text1": {
+            "x": 10,
+            "y": 30,
+            "value": "-"
+        }
+    },
+    "equal": {
+        "x": 504,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 10,
+            "y": 15,
+            "value": "+"
+        },
+        "text1": {
+            "x": 10,
+            "y": 30,
+            "value": "="
+        }
+    },
+    "backspace": {
+        "x": 546,
+        "path": {
+            "d": "M0 0h83v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "_"
+        }
+    },
+    "insert": {
+        "x": 648,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 5,
+            "y": 16,
+            "value": "Insert"
+        }
+    },
+    "home": {
+        "x": 690,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 5,
+            "y": 16,
+            "value": "Home"
+        }
+    },
+    "pageUp": {
+        "x": 732,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 5,
+            "y": 16,
+            "value": "Page"
+        },
+        "text1": {
+            "x": 5,
+            "y": 28,
+            "value": "Up"
+        }
+    },
+    "numLock": {
+        "x": 792,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 5,
+            "y": 16,
+            "value": "Num"
+        },
+        "text1": {
+            "x": 5,
+            "y": 28,
+            "value": "Lock",
+            "textAnchor": "none"
+        }
+    },
+    "numpadDivide": {
+        "x": 834,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "⁄"
+        }
+    },
+    "numpadMultiply": {
+        "x": 876,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "×"
+        }
+    },
+    "numpadSubstract": {
+        "x": 918,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "−"
+        }
+    },
+
+
+
+    "tab": {
+        "y": 42,
+        "path": {
+            "d": "M0 0h63v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "Tab"
+        }
+    },
+    "keyQ": {
+        "x": 65,
+        "y": 42,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "Q"
+        }
+    },
+    "keyW": {
+        "x": 107,
+        "y": 42,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "W"
+        }
+    },
+    "keyE": {
+        "x": 149,
+        "y": 42,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "E"
+        }
+    },
+    "keyR": {
+        "x": 191,
+        "y": 42,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "R"
+        }
+    },
+    "keyT": {
+        "x": 233,
+        "y": 42,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "T"
+        }
+    },
+    "keyY": {
+        "x": 275,
+        "y": 42,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "Y"
+        }
+    },
+    "keyU": {
+        "x": 317,
+        "y": 42,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "U"
+        }
+    },
+    "keyI": {
+        "x": 359,
+        "y": 42,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "I"
+        }
+    },
+    "keyO": {
+        "x": 401,
+        "y": 42,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "O"
+        }
+    },
+    "keyP": {
+        "x": 443,
+        "y": 42,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "P"
+        }
+    },
+    "bracketLeft": {
+        "x": 485,
+        "y": 42,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 10,
+            "y": 15,
+            "value": "{"
+        },
+        "text1": {
+            "x": 10,
+            "y": 30,
+            "value": "["
+        }
+    },
+    "bracketRight": {
+        "x": 527,
+        "y": 42,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 10,
+            "y": 15,
+            "value": "}"
+        },
+        "text1": {
+            "x": 10,
+            "y": 30,
+            "value": "]"
+        }
+    },
+    "backslash": {
+        "x": 569,
+        "y": 42,
+        "path": {
+            "d": "M0 0h60v40H0z"
+        },
+        "text": {
+            "x": 10,
+            "y": 15,
+            "value": "|"
+        },
+        "text1": {
+            "x": 10,
+            "y": 30,
+            "value": "\\"
+        }
+    },
+    "delete": {
+        "x": 648,
+        "y": 42,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 5,
+            "y": 16,
+            "value": "Delete"
+        }
+    },
+    "end": {
+        "x": 690,
+        "y": 42,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 5,
+            "y": 16,
+            "value": "End"
+        }
+    },
+    "pageDown": {
+        "x": 732,
+        "y": 42,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 5,
+            "y": 16,
+            "value": "Page"
+        },
+        "text1": {
+            "x": 5,
+            "y": 28,
+            "value": "Down"
+        }
+    },
+    "numpad7": {
+        "x": 792,
+        "y": 42,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 8,
+            "y": 18,
+            "value": "7"
+        },
+        "text1": {
+            "x": 35,
+            "y": 32,
+            "value": "Home"
+        }
+    },
+    "numpad8": {
+        "x": 834,
+        "y": 42,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 8,
+            "y": 18,
+            "value": "8"
+        },
+        "text1": {
+            "x": 35,
+            "y": 32,
+            "value": "↑"
+        }
+    },
+    "numpad9": {
+        "x": 876,
+        "y": 42,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 8,
+            "y": 18,
+            "value": "9"
+        },
+        "text1": {
+            "x": 35,
+            "y": 32,
+            "value": "Pg Up"
+        }
+    },
+    "numpadAdd": {
+        "x": 918,
+        "y": 42,
+        "path": {
+            "d": "M0 0h40v82H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "+"
+        }
+    },
+
+
+
+    "capsLock": {
+        "y": 84,
+        "path": {
+            "d": "M0 0h70v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "Caps Lock"
+        }
+    },
+    "keyA": {
+        "x": 72,
+        "y": 84,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "A"
+        }
+    },
+    "keyS": {
+        "x": 114,
+        "y": 84,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "S"
+        }
+    },
+    "keyD": {
+        "x": 156,
+        "y": 84,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "D"
+        }
+    },
+    "keyF": {
+        "x": 198,
+        "y": 84,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "F"
+        }
+    },
+    "keyG": {
+        "x": 240,
+        "y": 84,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "G"
+        }
+    },
+    "keyH": {
+        "x": 282,
+        "y": 84,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "H"
+        }
+    },
+    "keyJ": {
+        "x": 324,
+        "y": 84,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "J"
+        }
+    },
+    "keyK": {
+        "x": 366,
+        "y": 84,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "K"
+        }
+    },
+    "keyL": {
+        "x": 408,
+        "y": 84,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "L"
+        }
+    },
+    "semicolon": {
+        "x": 450,
+        "y": 84,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 10,
+            "y": 15,
+            "value": ":"
+        },
+        "text1": {
+            "x": 10,
+            "y": 30,
+            "value": ";"
+        }
+    },
+    "quote": {
+        "x": 492,
+        "y": 84,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 10,
+            "y": 15,
+            "value": "&quot;"
+        },
+        "text1": {
+            "x": 10,
+            "y": 30,
+            "value": "&apos;"
+        }
+    },
+    "enter": {
+        "x": 534,
+        "y": 84,
+        "path": {
+            "d": "M0 0h95v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "Enter"
+        }
+    },
+    "numpad4": {
+        "x": 792,
+        "y": 84,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 8,
+            "y": 18,
+            "value": "4"
+        },
+        "text2": {
+            "x": 35,
+            "y": 32,
+            "value": "←"
+        }
+    },
+    "numpad5": {
+        "x": 834,
+        "y": 84,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 8,
+            "y": 18,
+            "value": "5"
+        }
+    },
+    "numpad6": {
+        "x": 876,
+        "y": 84,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 8,
+            "y": 18,
+            "value": "6"
+        },
+        "text1": {
+            "x": 35,
+            "y": 32,
+            "value": "→"
+        }
+    },
+
+
+
+    "shiftLeft": {
+        "y": 126,
+        "path": {
+            "d": "M0 0h92v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "Shift"
+        }
+    },
+    "keyZ": {
+        "x": 94,
+        "y": 126,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "Z"
+        }
+    },
+    "keyX": {
+        "x": 136,
+        "y": 126,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "X"
+        }
+    },
+    "keyC": {
+        "x": 178,
+        "y": 126,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "C"
+        }
+    },
+    "keyV": {
+        "x": 220,
+        "y": 126,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "V"
+        }
+    },
+    "keyB": {
+        "x": 262,
+        "y": 126,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "B"
+        }
+    },
+    "keyN": {
+        "x": 304,
+        "y": 126,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "N"
+        }
+    },
+    "keyM": {
+        "x": 346,
+        "y": 126,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "M"
+        }
+    },
+    "comma": {
+        "x": 388,
+        "y": 126,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 10,
+            "y": 15,
+            "value": "&lt;"
+        },
+        "text1": {
+            "x": 10,
+            "y": 30,
+            "value": ","
+        }
+    },
+    "period": {
+        "x": 430,
+        "y": 126,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 10,
+            "y": 15,
+            "value": "&gt;"
+        },
+        "text1": {
+            "x": 10,
+            "y": 30,
+            "value": "."
+        }
+    },
+    "slash": {
+        "x": 472,
+        "y": 126,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 10,
+            "y": 15,
+            "value": "?"
+        },
+        "text1": {
+            "x": 10,
+            "y": 30,
+            "value": "/"
+        }
+    },
+    "shiftRight": {
+        "x": 514,
+        "y": 126,
+        "path": {
+            "d": "M0 0h115v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "Shift"
+        }
+    },
+    "arrowUp": {
+        "x": 690,
+        "y": 126,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 20,
+            "y": 25,
+            "value": "↑"
+        }
+    },
+    "numpad1": {
+        "x": 792,
+        "y": 126,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 8,
+            "y": 18,
+            "value": "1"
+        },
+        "text1": {
+            "x": 35,
+            "y": 32,
+            "value": "End"
+        }
+    },
+    "numpad2": {
+        "x": 834,
+        "y": 126,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 8,
+            "y": 18,
+            "value": "2"
+        },
+        "text1": {
+            "x": 35,
+            "y": 32,
+            "value": "↓"
+        }
+    },
+    "numpad3": {
+        "x": 876,
+        "y": 126,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 8,
+            "y": 18,
+            "value": "3"
+        },
+        "text1": {
+            "x": 35,
+            "y": 32,
+            "value": "Pg Dn"
+        }
+    },
+    "numpadEnter": {
+        "x": 918,
+        "y": 126,
+        "path": {
+            "d": "M0 0h40v82H0z"
+        },
+        "text": {
+            "x": 5,
+            "y": 16,
+            "value": "Enter"
+        }
+    },
+
+
+
+
+    "controlLeft": {
+        "y": 168,
+        "path": {
+            "d": "M0 0h63v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "Ctrl"
+        }
+    },
+    "altLeft": {
+        "x": 65,
+        "y": 168,
+        "path": {
+            "d": "M0 0h63v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "Alt"
+        }
+    },
+    "space": {
+        "x": 130,
+        "y": 168,
+        "path": {
+            "d": "M0 0h369v40H0z"
+        }
+    },
+    "altRight": {
+        "x": 501,
+        "y": 168,
+        "path": {
+            "d": "M0 0h63v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "Alt"
+        }
+    },
+    "controlRight": {
+        "x": 566,
+        "y": 168,
+        "path": {
+            "d": "M0 0h63v40H0z"
+        },
+        "text": {
+            "x": 15,
+            "y": 25,
+            "value": "Ctrl"
+        }
+    },
+    "arrowLeft": {
+        "x": 648,
+        "y": 168,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 20,
+            "y": 25,
+            "value": "←"
+        }
+    },
+    "arrowDown": {
+        "x": 690,
+        "y": 168,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 20,
+            "y": 25,
+            "value": "↓"
+        }
+    },
+    "arrowRight": {
+        "x": 732,
+        "y": 168,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 20,
+            "y": 25,
+            "value": "→"
+        }
+    },
+    "numpad0": {
+        "x": 792,
+        "y": 168,
+        "path": {
+            "d": "M0 0h82v40H0z"
+        },
+        "text": {
+            "x": 8,
+            "y": 18,
+            "value": "0"
+        },
+        "text1": {
+            "x": 77,
+            "y": 32,
+            "value": "Ins"
+        }
+    },
+    "numpadDecimal": {
+        "x": 876,
+        "y": 168,
+        "path": {
+            "d": "M0 0h40v40H0z"
+        },
+        "text": {
+            "x": 8,
+            "y": 18,
+            "value": "."
+        },
+        "text1": {
+            "x": 35,
+            "y": 32,
+            "value": "Del"
+        }
+    }
+}

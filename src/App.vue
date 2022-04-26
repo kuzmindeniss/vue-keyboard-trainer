@@ -24,15 +24,25 @@ const currentView = computed(() => {
 
 <template>
 <div class="root-wrapper">
-    <!-- <Headband /> -->
-    <!-- <TypingPractice /> -->
-    <component :is="currentView" />
+    <Transition appear mode="out-in">
+        <component :is="currentView" />
+    </Transition>
 </div>
 </template>
 
 <style lang="scss">
 @import '@/styles/_reset.scss';
 @import '@/styles/base.scss';
+
+.v-enter-active,
+.v-leave-active {
+  transition: opacity .8s ease;
+}
+
+.v-enter-from,
+.v-leave-to {
+  opacity: 0;
+}
 
 #app {
     height: 1px;
