@@ -1,11 +1,12 @@
 <script setup lang="ts">
+import { failIndexes } from './TypingPracticeStore';
+
 const props = defineProps<{
     letter: string;
     index: number;
-    failIndexes: {[key: number]: boolean};
 }>();
 
-const isWrong = props.failIndexes[props.index];
+const isWrong = failIndexes.value[props.index];
 </script>
 
 <template>

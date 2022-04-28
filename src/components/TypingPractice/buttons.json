@@ -1,5 +1,5 @@
 {
-    "backquote": {
+    "Backquote": {
         "path" : {
             "d": "M0 0h40v40H0z"
         },
@@ -11,10 +11,11 @@
         "text1": {
             "x": 10,
             "y": 30,
-            "value": "`"
+            "value": "`",
+            "textAnchor": "inherit"
         }
     },
-    "digit1": {
+    "Digit1": {
         "x": 42,
         "path": {
             "d": "M0 0h40v40H0z"
@@ -27,10 +28,11 @@
         "text1": {
             "x": 10,
             "y": 30,
-            "value": "1"
+            "value": "1",
+            "textAnchor": "inherit"
         }
     },
-    "digit2": {
+    "Digit2": {
         "x": 84,
         "path": {
             "d": "M0 0h40v40H0z"
@@ -43,10 +45,11 @@
         "text1": {
             "x": 10,
             "y": 30,
-            "value": "2"
+            "value": "2",
+            "textAnchor": "inherit"
         }
     },
-    "digit3": {
+    "Digit3": {
         "x": 126,
         "path": {
             "d": "M0 0h40v40H0z"
@@ -59,10 +62,11 @@
         "text1": {
             "x": 10,
             "y": 30,
-            "value": "3"
+            "value": "3",
+            "textAnchor": "inherit"
         }
     },
-    "digit4": {
+    "Digit4": {
         "x": 168,
         "path": {
             "d": "M0 0h40v40H0z"
@@ -75,10 +79,11 @@
         "text1": {
             "x": 10,
             "y": 30,
-            "value": "4"
+            "value": "4",
+            "textAnchor": "inherit"
         }
     },
-    "digit5": {
+    "Digit5": {
         "x": 210,
         "path": {
             "d": "M0 0h40v40H0z"
@@ -91,10 +96,11 @@
         "text1": {
             "x": 10,
             "y": 30,
-            "value": "5"
+            "value": "5",
+            "textAnchor": "inherit"
         }
     },
-    "digit6": {
+    "Digit6": {
         "x": 252,
         "path": {
             "d": "M0 0h40v40H0z"
@@ -107,10 +113,11 @@
         "text1": {
             "x": 10,
             "y": 30,
-            "value": "6"
+            "value": "6",
+            "textAnchor": "inherit"
         }
     },
-    "digit7": {
+    "Digit7": {
         "x": 294,
         "path": {
             "d": "M0 0h40v40H0z"
@@ -123,10 +130,11 @@
         "text1": {
             "x": 10,
             "y": 30,
-            "value": "7"
+            "value": "7",
+            "textAnchor": "inherit"
         }
     },
-    "digit8": {
+    "Digit8": {
         "x": 336,
         "path": {
             "d": "M0 0h40v40H0z"
@@ -139,10 +147,11 @@
         "text1": {
             "x": 10,
             "y": 30,
-            "value": "8"
+            "value": "8",
+            "textAnchor": "inherit"
         }
     },
-    "digit9": {
+    "Digit9": {
         "x": 378,
         "path": {
             "d": "M0 0h40v40H0z"
@@ -155,10 +164,11 @@
         "text1": {
             "x": 10,
             "y": 30,
-            "value": "9"
+            "value": "9",
+            "textAnchor": "inherit"
         }
     },
-    "digit0": {
+    "Digit0": {
         "x": 420,
         "path": {
             "d": "M0 0h40v40H0z"
@@ -171,10 +181,11 @@
         "text1": {
             "x": 10,
             "y": 30,
-            "value": "0"
+            "value": "0",
+            "textAnchor": "inherit"
         }
     },
-    "minus": {
+    "Minus": {
         "x": 462,
         "path": {
             "d": "M0 0h40v40H0z"
@@ -187,10 +198,11 @@
         "text1": {
             "x": 10,
             "y": 30,
-            "value": "-"
+            "value": "-",
+            "textAnchor": "inherit"
         }
     },
-    "equal": {
+    "Equal": {
         "x": 504,
         "path": {
             "d": "M0 0h40v40H0z"
@@ -203,10 +215,11 @@
         "text1": {
             "x": 10,
             "y": 30,
-            "value": "="
+            "value": "=",
+            "textAnchor": "inherit"
         }
     },
-    "backspace": {
+    "Backspace": {
         "x": 546,
         "path": {
             "d": "M0 0h83v40H0z"
@@ -217,7 +230,7 @@
             "value": "_"
         }
     },
-    "insert": {
+    "Insert": {
         "x": 648,
         "path": {
             "d": "M0 0h40v40H0z"
@@ -228,7 +241,7 @@
             "value": "Insert"
         }
     },
-    "home": {
+    "Home": {
         "x": 690,
         "path": {
             "d": "M0 0h40v40H0z"
@@ -239,7 +252,7 @@
             "value": "Home"
         }
     },
-    "pageUp": {
+    "PageUp": {
         "x": 732,
         "path": {
             "d": "M0 0h40v40H0z"
@@ -252,10 +265,11 @@
         "text1": {
             "x": 5,
             "y": 28,
-            "value": "Up"
+            "value": "Up",
+            "textAnchor": "inherit"
         }
     },
-    "numLock": {
+    "NumLock": {
         "x": 792,
         "path": {
             "d": "M0 0h40v40H0z"
@@ -269,10 +283,10 @@
             "x": 5,
             "y": 28,
             "value": "Lock",
-            "textAnchor": "none"
+            "textAnchor": "inherit"
         }
     },
-    "numpadDivide": {
+    "NumpadDivide": {
         "x": 834,
         "path": {
             "d": "M0 0h40v40H0z"
@@ -283,7 +297,7 @@
             "value": "⁄"
         }
     },
-    "numpadMultiply": {
+    "NumpadMultiply": {
         "x": 876,
         "path": {
             "d": "M0 0h40v40H0z"
@@ -294,7 +308,7 @@
             "value": "×"
         }
     },
-    "numpadSubstract": {
+    "NumpadSubstract": {
         "x": 918,
         "path": {
             "d": "M0 0h40v40H0z"
@@ -308,7 +322,7 @@
 
 
 
-    "tab": {
+    "Tab": {
         "y": 42,
         "path": {
             "d": "M0 0h63v40H0z"
@@ -319,7 +333,7 @@
             "value": "Tab"
         }
     },
-    "keyQ": {
+    "KeyQ": {
         "x": 65,
         "y": 42,
         "path": {
@@ -331,7 +345,7 @@
             "value": "Q"
         }
     },
-    "keyW": {
+    "KeyW": {
         "x": 107,
         "y": 42,
         "path": {
@@ -343,7 +357,7 @@
             "value": "W"
         }
     },
-    "keyE": {
+    "KeyE": {
         "x": 149,
         "y": 42,
         "path": {
@@ -355,7 +369,7 @@
             "value": "E"
         }
     },
-    "keyR": {
+    "KeyR": {
         "x": 191,
         "y": 42,
         "path": {
@@ -367,7 +381,7 @@
             "value": "R"
         }
     },
-    "keyT": {
+    "KeyT": {
         "x": 233,
         "y": 42,
         "path": {
@@ -379,7 +393,7 @@
             "value": "T"
         }
     },
-    "keyY": {
+    "KeyY": {
         "x": 275,
         "y": 42,
         "path": {
@@ -391,7 +405,7 @@
             "value": "Y"
         }
     },
-    "keyU": {
+    "KeyU": {
         "x": 317,
         "y": 42,
         "path": {
@@ -403,7 +417,7 @@
             "value": "U"
         }
     },
-    "keyI": {
+    "KeyI": {
         "x": 359,
         "y": 42,
         "path": {
@@ -415,7 +429,7 @@
             "value": "I"
         }
     },
-    "keyO": {
+    "KeyO": {
         "x": 401,
         "y": 42,
         "path": {
@@ -427,7 +441,7 @@
             "value": "O"
         }
     },
-    "keyP": {
+    "KeyP": {
         "x": 443,
         "y": 42,
         "path": {
@@ -439,7 +453,7 @@
             "value": "P"
         }
     },
-    "bracketLeft": {
+    "BracketLeft": {
         "x": 485,
         "y": 42,
         "path": {
@@ -453,10 +467,11 @@
         "text1": {
             "x": 10,
             "y": 30,
-            "value": "["
+            "value": "[",
+            "textAnchor": "inherit"
         }
     },
-    "bracketRight": {
+    "BracketRight": {
         "x": 527,
         "y": 42,
         "path": {
@@ -470,10 +485,11 @@
         "text1": {
             "x": 10,
             "y": 30,
-            "value": "]"
+            "value": "]",
+            "textAnchor": "inherit"
         }
     },
-    "backslash": {
+    "Backslash": {
         "x": 569,
         "y": 42,
         "path": {
@@ -487,10 +503,11 @@
         "text1": {
             "x": 10,
             "y": 30,
-            "value": "\\"
+            "value": "\\",
+            "textAnchor": "inherit"
         }
     },
-    "delete": {
+    "Delete": {
         "x": 648,
         "y": 42,
         "path": {
@@ -502,7 +519,7 @@
             "value": "Delete"
         }
     },
-    "end": {
+    "End": {
         "x": 690,
         "y": 42,
         "path": {
@@ -514,7 +531,7 @@
             "value": "End"
         }
     },
-    "pageDown": {
+    "PageDown": {
         "x": 732,
         "y": 42,
         "path": {
@@ -528,10 +545,11 @@
         "text1": {
             "x": 5,
             "y": 28,
-            "value": "Down"
+            "value": "Down",
+            "textAnchor": "inherit"
         }
     },
-    "numpad7": {
+    "Numpad7": {
         "x": 792,
         "y": 42,
         "path": {
@@ -548,7 +566,7 @@
             "value": "Home"
         }
     },
-    "numpad8": {
+    "Numpad8": {
         "x": 834,
         "y": 42,
         "path": {
@@ -565,7 +583,7 @@
             "value": "↑"
         }
     },
-    "numpad9": {
+    "Numpad9": {
         "x": 876,
         "y": 42,
         "path": {
@@ -582,7 +600,7 @@
             "value": "Pg Up"
         }
     },
-    "numpadAdd": {
+    "NumpadAdd": {
         "x": 918,
         "y": 42,
         "path": {
@@ -597,7 +615,7 @@
 
 
 
-    "capsLock": {
+    "CapsLock": {
         "y": 84,
         "path": {
             "d": "M0 0h70v40H0z"
@@ -608,7 +626,7 @@
             "value": "Caps Lock"
         }
     },
-    "keyA": {
+    "KeyA": {
         "x": 72,
         "y": 84,
         "path": {
@@ -620,7 +638,7 @@
             "value": "A"
         }
     },
-    "keyS": {
+    "KeyS": {
         "x": 114,
         "y": 84,
         "path": {
@@ -632,7 +650,7 @@
             "value": "S"
         }
     },
-    "keyD": {
+    "KeyD": {
         "x": 156,
         "y": 84,
         "path": {
@@ -644,7 +662,7 @@
             "value": "D"
         }
     },
-    "keyF": {
+    "KeyF": {
         "x": 198,
         "y": 84,
         "path": {
@@ -656,7 +674,7 @@
             "value": "F"
         }
     },
-    "keyG": {
+    "KeyG": {
         "x": 240,
         "y": 84,
         "path": {
@@ -668,7 +686,7 @@
             "value": "G"
         }
     },
-    "keyH": {
+    "KeyH": {
         "x": 282,
         "y": 84,
         "path": {
@@ -680,7 +698,7 @@
             "value": "H"
         }
     },
-    "keyJ": {
+    "KeyJ": {
         "x": 324,
         "y": 84,
         "path": {
@@ -692,7 +710,7 @@
             "value": "J"
         }
     },
-    "keyK": {
+    "KeyK": {
         "x": 366,
         "y": 84,
         "path": {
@@ -704,7 +722,7 @@
             "value": "K"
         }
     },
-    "keyL": {
+    "KeyL": {
         "x": 408,
         "y": 84,
         "path": {
@@ -716,7 +734,7 @@
             "value": "L"
         }
     },
-    "semicolon": {
+    "Semicolon": {
         "x": 450,
         "y": 84,
         "path": {
@@ -730,10 +748,11 @@
         "text1": {
             "x": 10,
             "y": 30,
-            "value": ";"
+            "value": ";",
+            "textAnchor": "inherit"
         }
     },
-    "quote": {
+    "Quote": {
         "x": 492,
         "y": 84,
         "path": {
@@ -747,10 +766,11 @@
         "text1": {
             "x": 10,
             "y": 30,
-            "value": "&apos;"
+            "value": "&apos;",
+            "textAnchor": "inherit"
         }
     },
-    "enter": {
+    "Enter": {
         "x": 534,
         "y": 84,
         "path": {
@@ -762,7 +782,7 @@
             "value": "Enter"
         }
     },
-    "numpad4": {
+    "Numpad4": {
         "x": 792,
         "y": 84,
         "path": {
@@ -773,13 +793,13 @@
             "y": 18,
             "value": "4"
         },
-        "text2": {
+        "text1": {
             "x": 35,
             "y": 32,
             "value": "←"
         }
     },
-    "numpad5": {
+    "Numpad5": {
         "x": 834,
         "y": 84,
         "path": {
@@ -791,7 +811,7 @@
             "value": "5"
         }
     },
-    "numpad6": {
+    "Numpad6": {
         "x": 876,
         "y": 84,
         "path": {
@@ -811,7 +831,7 @@
 
 
 
-    "shiftLeft": {
+    "ShiftLeft": {
         "y": 126,
         "path": {
             "d": "M0 0h92v40H0z"
@@ -822,7 +842,7 @@
             "value": "Shift"
         }
     },
-    "keyZ": {
+    "KeyZ": {
         "x": 94,
         "y": 126,
         "path": {
@@ -834,7 +854,7 @@
             "value": "Z"
         }
     },
-    "keyX": {
+    "KeyX": {
         "x": 136,
         "y": 126,
         "path": {
@@ -846,7 +866,7 @@
             "value": "X"
         }
     },
-    "keyC": {
+    "KeyC": {
         "x": 178,
         "y": 126,
         "path": {
@@ -858,7 +878,7 @@
             "value": "C"
         }
     },
-    "keyV": {
+    "KeyV": {
         "x": 220,
         "y": 126,
         "path": {
@@ -870,7 +890,7 @@
             "value": "V"
         }
     },
-    "keyB": {
+    "KeyB": {
         "x": 262,
         "y": 126,
         "path": {
@@ -882,7 +902,7 @@
             "value": "B"
         }
     },
-    "keyN": {
+    "KeyN": {
         "x": 304,
         "y": 126,
         "path": {
@@ -894,7 +914,7 @@
             "value": "N"
         }
     },
-    "keyM": {
+    "KeyM": {
         "x": 346,
         "y": 126,
         "path": {
@@ -906,7 +926,7 @@
             "value": "M"
         }
     },
-    "comma": {
+    "Comma": {
         "x": 388,
         "y": 126,
         "path": {
@@ -920,10 +940,11 @@
         "text1": {
             "x": 10,
             "y": 30,
-            "value": ","
+            "value": ",",
+            "textAnchor": "inherit"
         }
     },
-    "period": {
+    "Period": {
         "x": 430,
         "y": 126,
         "path": {
@@ -937,10 +958,11 @@
         "text1": {
             "x": 10,
             "y": 30,
-            "value": "."
+            "value": ".",
+            "textAnchor": "inherit"
         }
     },
-    "slash": {
+    "Slash": {
         "x": 472,
         "y": 126,
         "path": {
@@ -954,10 +976,11 @@
         "text1": {
             "x": 10,
             "y": 30,
-            "value": "/"
+            "value": "/",
+            "textAnchor": "inherit"
         }
     },
-    "shiftRight": {
+    "ShiftRight": {
         "x": 514,
         "y": 126,
         "path": {
@@ -969,7 +992,7 @@
             "value": "Shift"
         }
     },
-    "arrowUp": {
+    "ArrowUp": {
         "x": 690,
         "y": 126,
         "path": {
@@ -978,10 +1001,11 @@
         "text": {
             "x": 20,
             "y": 25,
-            "value": "↑"
+            "value": "↑",
+            "textAnchor": "middle"
         }
     },
-    "numpad1": {
+    "Numpad1": {
         "x": 792,
         "y": 126,
         "path": {
@@ -998,7 +1022,7 @@
             "value": "End"
         }
     },
-    "numpad2": {
+    "Numpad2": {
         "x": 834,
         "y": 126,
         "path": {
@@ -1015,7 +1039,7 @@
             "value": "↓"
         }
     },
-    "numpad3": {
+    "Numpad3": {
         "x": 876,
         "y": 126,
         "path": {
@@ -1032,7 +1056,7 @@
             "value": "Pg Dn"
         }
     },
-    "numpadEnter": {
+    "NumpadEnter": {
         "x": 918,
         "y": 126,
         "path": {
@@ -1048,7 +1072,7 @@
 
 
 
-    "controlLeft": {
+    "ControlLeft": {
         "y": 168,
         "path": {
             "d": "M0 0h63v40H0z"
@@ -1059,7 +1083,7 @@
             "value": "Ctrl"
         }
     },
-    "altLeft": {
+    "AltLeft": {
         "x": 65,
         "y": 168,
         "path": {
@@ -1071,14 +1095,14 @@
             "value": "Alt"
         }
     },
-    "space": {
+    "Space": {
         "x": 130,
         "y": 168,
         "path": {
             "d": "M0 0h369v40H0z"
         }
     },
-    "altRight": {
+    "AltRight": {
         "x": 501,
         "y": 168,
         "path": {
@@ -1090,7 +1114,7 @@
             "value": "Alt"
         }
     },
-    "controlRight": {
+    "ControlRight": {
         "x": 566,
         "y": 168,
         "path": {
@@ -1102,7 +1126,7 @@
             "value": "Ctrl"
         }
     },
-    "arrowLeft": {
+    "ArrowLeft": {
         "x": 648,
         "y": 168,
         "path": {
@@ -1111,10 +1135,11 @@
         "text": {
             "x": 20,
             "y": 25,
-            "value": "←"
+            "value": "←",
+            "textAnchor": "middle"
         }
     },
-    "arrowDown": {
+    "ArrowDown": {
         "x": 690,
         "y": 168,
         "path": {
@@ -1123,10 +1148,11 @@
         "text": {
             "x": 20,
             "y": 25,
-            "value": "↓"
+            "value": "↓",
+            "textAnchor": "middle"
         }
     },
-    "arrowRight": {
+    "ArrowRight": {
         "x": 732,
         "y": 168,
         "path": {
@@ -1135,10 +1161,11 @@
         "text": {
             "x": 20,
             "y": 25,
-            "value": "→"
+            "value": "→",
+            "textAnchor": "middle"
         }
     },
-    "numpad0": {
+    "Numpad0": {
         "x": 792,
         "y": 168,
         "path": {
@@ -1155,7 +1182,7 @@
             "value": "Ins"
         }
     },
-    "numpadDecimal": {
+    "NumpadDecimal": {
         "x": 876,
         "y": 168,
         "path": {

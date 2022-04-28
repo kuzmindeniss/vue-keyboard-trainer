@@ -1,14 +1,17 @@
 <script setup lang="ts">
 import buttonsJson from "./buttons.json";
 import KeyboardButton from "./KeyboardButton.vue";
+import type { KeyboardButtonSvgType } from "@/types";
+import { text, currentPosition } from "./TypingPracticeStore";
 
+const nextLetterCode = text.value[currentPosition.value];
 </script>
 
 <template>
     <svg class="keyboard" viewBox="0 0 1000 250">
         <rect class="border" width="1000" height="250" rx="10" ry="10" />
         <svg x="21" y="21">
-            <KeyboardButton v-for="button in buttonsJson" :item="button"/>
+            <KeyboardButton v-for="(button, key) in buttonsJson as {[key: string]: KeyboardButtonSvgType}" :item="button" :key="key"/>
         </svg>
     </svg>
 </template>
@@ -17,6 +20,7 @@ import KeyboardButton from "./KeyboardButton.vue";
 .keyboard {
     margin-top: 100px;
     aspect-ratio: 1000/250;
+    user-select: none;
 }
 
 .border {
@@ -25,6 +29,7 @@ import KeyboardButton from "./KeyboardButton.vue";
 
 .button {
     fill: #efefee;
+    transition: all .3s;
 }
 
 .keyboard {
@@ -37,6 +42,10 @@ import KeyboardButton from "./KeyboardButton.vue";
 
 .gray .pressed {
     fill: #22211f;
+}
+
+.next {
+    fill: yellow;
 }
 
 .pressed .button {
