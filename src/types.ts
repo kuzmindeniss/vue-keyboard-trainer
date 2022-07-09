@@ -8,8 +8,8 @@ interface KeyboardButtonSvgTextType {
 export interface KeyboardButtonSvgType {
     x?: number;
     y?: number;
-    path?: {
-        d?: string;
+    path: {
+        d: string;
     };
     text?: KeyboardButtonSvgTextType;
     text1?: KeyboardButtonSvgTextType;
